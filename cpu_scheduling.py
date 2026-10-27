@@ -1,5 +1,6 @@
 # Operating Systems Laboratory Activity 2
 # CPU Scheduling Simulator - Python 3
+
 from collections import deque
 from copy import deepcopy
 
